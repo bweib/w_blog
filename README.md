@@ -1,4 +1,4 @@
 # w_blog
 my new blog
 
-[baidu](www.baidu.com)
+[baidu](https://www.baidu.com/)
