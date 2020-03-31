@@ -1,4 +1,4 @@
 # w_blog
 my new blog
 
-[baidu](https://www.baidu.com/)
+<a href="https://www.baidu.com/" target="_blank">baidu</a>
