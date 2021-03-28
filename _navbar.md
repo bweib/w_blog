@@ -5,4 +5,4 @@
    * [基础](/js/base.md)
 
 * vue
-   * [vue](/vue/vue.md)
+   * [vue](/vue/index.md)
