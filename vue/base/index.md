@@ -25,3 +25,9 @@ lazy:
 number: 对输入进行类型转换
 trim: 去除前后空白字符
 ```
+## Vue2 vue3
+ [Object.defineProperty 与 Proxy 对比](https://juejin.cn/post/7069397770766909476#heading-1)
+
+
+
+```
