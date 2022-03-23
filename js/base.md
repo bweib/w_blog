@@ -8,7 +8,7 @@
    2. 引用数据类型：对象(Object)、数组(Array)、函数(Function)。占用空间不固定, 保存在堆中
 
  > 注：Symbol 是 ES6 引入了一种新的原始数据类型，表示独一无二的值。不支持 new Symbol(); 
-* [ ] 文档：
+* 文档：
   + [JavaScript 数据类型和数据结构](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 
  [延伸-js类型判断]('www.baidu.com')
@@ -62,7 +62,7 @@ for (var i = 1; i <= 5; i++) {
 
 ## 3. this 
 
- ### [深入理解this]('https://segmentfault.com/a/1190000011194676')
+ #### [深入理解this]('https://segmentfault.com/a/1190000011194676')
  1. this是JavaScript的关键字之一。它是对象自动生成的一个内部对象，只能在 对象 内部使用。随着函数使用场合的不同，this的值会发生变化。
 2. this指向什么，完全取决于 什么地方以什么方式调用，而不是创建时。（比较多人误解的地方）
 3. 构造函数中的this  指向new创建的对象

@@ -9,11 +9,10 @@
 
 # 2.垃圾回收
  - [ ] [深入理解 Chrome V8 垃圾回收机制](https://github.com/yacan8/blog/issues/33)，该文章的参考文献也可阅读下
-继承
 
-## 13. 正则
-new RegExp()
-/^1[3, 4, 5, 7, 8, 9]\d{9}$/
-修饰符：i:ignore 忽略大小写
-g :global  全局匹配
-m：mulite-line  多行匹配 
+
+# 3.继承
+
+
+## 4.js执行机制
+- [从浏览器多进程到 JS 单线程，JS 运行机制最全面的一次梳理](https://segmentfault.com/a/1190000012925872)
